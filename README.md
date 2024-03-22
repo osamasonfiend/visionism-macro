@@ -5,16 +5,11 @@ This is a macro for the game Visionism, created using Autohotkey. The macro is d
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-  - [Building from source](#building-from-source)
 - [Tutorial](#tutorial)
 - [Disclaimer](#disclaimer)
 
 ## Installation
 This macro does not support Mac OS and Linux.
-### Building from source
-```bash
-git clone https://github.com/osamasonfiend/visionism-macro/
-```
 
 ## Features
 - Striking Power
